@@ -1,6 +1,12 @@
 # Sleep Service：智能睡眠辅助系统完整架构文档
 
 <div align="center">
+  <a href="https://github.com/Ginger-Sanshui/sleep_service/tree/english" style="text-decoration: none; color: #0366d6; font-weight: bold;">
+    👉 切换到 English Version (Click here for English)
+  </a>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-3.4.4-brightgreen.svg" alt="Spring Boot">
   <img src="https://img.shields.io/badge/MySQL-8.0-blue.svg" alt="MySQL">
   <img src="https://img.shields.io/badge/Etcd-3.5.9-purple.svg" alt="Etcd">
@@ -578,6 +584,7 @@ kubectl exec -it <mysql-pod> -- mysql -u root -pSensor@123 -e "show processlist"
   <p>✨ 让科技守护你的优质睡眠 ✨</p>
   <p>项目地址：<a href="https://github.com/Ginger-Sanshui/sleep_service">https://github.com/Ginger-Sanshui/sleep_service</a></p>
 </div>
+
 
 
 
