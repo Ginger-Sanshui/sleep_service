@@ -390,7 +390,7 @@ public interface SensorRepository extends JpaRepository<Sensor, Integer> {
 
 #### 前置条件
 - 虚拟机软件：VMware Workstation 16+ 或 VirtualBox 6+
-- 硬件资源：至少8GB内存，20GB空闲磁盘空间
+- 硬件资源：至少2GB内存，20GB空闲磁盘空间
 - 网络环境：支持桥接网络的环境
 
 #### 部署步骤
@@ -578,6 +578,7 @@ kubectl exec -it <mysql-pod> -- mysql -u root -pSensor@123 -e "show processlist"
   <p>✨ 让科技守护你的优质睡眠 ✨</p>
   <p>项目地址：<a href="https://github.com/Ginger-Sanshui/sleep_service">https://github.com/Ginger-Sanshui/sleep_service</a></p>
 </div>
+
 
 
 
