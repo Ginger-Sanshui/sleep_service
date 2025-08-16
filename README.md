@@ -1,7 +1,7 @@
 # Sleep Service: Complete Architecture Documentation for Intelligent Sleep Assistance System
 
 <div align="center">
-  <a href="https://github.com/your-username/sleep-service/tree/main" style="text-decoration: none; color: #333; font-weight: bold;">
+  <a href="https://github.com/your-username/sleep-service/tree/china" style="text-decoration: none; color: #333; font-weight: bold;">
     👉 切换到 中文版本 (Switch to Chinese Version)
   </a>
 </div>
@@ -564,4 +564,5 @@ Apache 2.0 License - See LICENSE file for details.
   <p>✨ Let Technology Guard Your Quality Sleep ✨</p>
   <p>Project URL: <a href="https://github.com/Ginger-Sanshui/sleep_service">https://github.com/Ginger-Sanshui/sleep_service</a></p>
 </div>
+
 
