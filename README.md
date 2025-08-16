@@ -310,7 +310,7 @@ public interface SensorRepository extends JpaRepository<Sensor, Integer> {
 |---------|---------|---------|---------|---------|
 | `/Token` | POST | 获取访问令牌 | `{"user":"X","name":"SDD"}` | 无 |
 | `/addSensor` | POST | 接收ESP8266数据 | `{"temperature":"24","humidity":"55","noise":"32"}` | 无 |
-| `/addSensor32` | POST | 接收ESP32心率数据 | `{"rate":"750000"}` | 无 |
+| `/addSensor32` | POST | 接收ESP32心率数据 | `{"rate":"750000"}` | 无 | 因发送端未换算 实际值为75
 | `/getStrategy` | GET | 获取睡眠策略 | - | 需要 |
 | `/getMusicList` | GET | 获取歌曲列表 | - | 需要 |
 | `/getMusicListTwo` | GET | 获取歌手列表 | - | 需要 |
@@ -515,3 +515,4 @@ kubectl exec -it <mysql-pod> -- mysql -u root -pSensor@123 -e "show processlist"
   <p>✨ 让科技守护你的优质睡眠 ✨</p>
   <p>项目地址：<a href="https://github.com/Ginger-Sanshui/sleep_service">https://github.com/Ginger-Sanshui/sleep_service</a></p>
 </div>
+
