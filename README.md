@@ -1,11 +1,4 @@
 # Sleep Service：智能睡眠辅助系统完整架构文档
-Sleep Service: Intelligent Sleep Assistance System Architecture Documentation
-<div align="center">
-<!-- Language Switch Navigation -->
-<h2 style="margin: 1rem 0;">
-<a href="#chinese" style="text-decoration: none; color: #333; margin-right: 1.5rem;">中文</a> |
-<a href="#english" style="text-decoration: none; color: #0366d6;">English</a>
-</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-3.4.4-brightgreen.svg" alt="Spring Boot">
